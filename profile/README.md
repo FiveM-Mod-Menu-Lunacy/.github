@@ -65,7 +65,7 @@ Dominate any GTA V RP server with this fully-featured, undetected **FiveM Mod Me
 
 ### 🖼 Preview
 
-![ESP System](https://vag.gg/attachments/14118/)  
+![ESP System](https://i.ytimg.com/vi/pBjMdQ-V48I/hqdefault.jpg)  
 *Shows enemy and ally positions through walls*
 
 ![Vehicle Menu](https://i.ytimg.com/vi/LHDZIOAnxMY/sddefault.jpg)  
